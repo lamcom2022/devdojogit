@@ -1,0 +1,16 @@
+http:
+  routers:
+    whoami:
+      service: whoami-service
+      entryPoints:
+        - "websecure"
+      rule: "Host(`whoami.xyz.com`)"
+      tls: "true"
+      tls:
+        certresolver: "myresolver"
+
+  services:
+    whoami-service:
+      loadBalancer:
+        servers:
+          - url: "http://18.189.3.157:8888"

@@ -1,0 +1,49 @@
+{
+  "stages": [
+    {
+      "name": "Prospecting",
+      "description": "Meetings and Q&A Sessions",
+      "coverimage": {"src":"","title":""},
+      "stakeholders" : ["Client","Swara Nritya"],
+      "icon": {
+        "svg": [{"path" : ""}],
+        "img":"https://res.cloudinary.com/nathansweb/image/upload/v1631402353/zicons/one-key_wwlaoi.svg","title":""}
+    },
+    {
+      "name": "Proposal & Sign-in",
+      "description": "Statement Of Work with detailed plan and milestone",
+      "coverimage": {"src":"","title":""},
+      "stakeholders" : ["Client","Swara Nritya"],
+      "icon": {
+        "svg": [{"path" : ""}],
+        "img":"https://res.cloudinary.com/nathansweb/image/upload/v1631402369/zicons/two-key_g1y9m3.svg","title":""}
+      },
+      {
+        "name": "Develop",
+        "description": "Continuous Delivery and Integration",
+        "coverimage": {"src":"","title":""},
+        "stakeholders" : ["Swara Nritya"],
+        "icon": {
+          "svg": [{"path" : ""}],
+          "img":"https://res.cloudinary.com/nathansweb/image/upload/v1631402379/zicons/three-key_qgg7vq.svg","title":""}
+      },
+      {
+        "name": "Quality Assurance",
+        "description": "Perform manual and automated tests",
+        "coverimage": {"src":"","title":""},
+        "stakeholders" : ["Client","Swara Nritya"],
+        "icon": {
+          "svg": [{"path" : ""}],
+          "img":"https://res.cloudinary.com/nathansweb/image/upload/v1631402388/zicons/four-key_sugwg8.svg","title":""}
+      },
+      {
+        "name": "Hand-over & Sign-Off",
+        "description": "Conduct UAT, Training and move to maintenance.",
+        "coverimage": {"src":"","title":""},
+        "stakeholders" : ["Client","Swara Nritya"],
+        "icon": {
+          "svg": [{"path" : ""}],
+          "img":"https://res.cloudinary.com/nathansweb/image/upload/v1631402396/zicons/five-key_ssfmwx.svg","title":""}
+      }
+    ]
+}

@@ -1,0 +1,25 @@
+version: "3.7"
+
+networks:
+  traefik-public:
+    external: true
+
+services:
+  swaranritya-ui-web:
+    image: zynomi/swaranritya-ui-web:latest
+    container_name: swaranritya-ui-web
+    networks:
+      - traefik-public
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "5000:80"
+    environment:
+      - REST_ENDPOINT="https://api.zynomi.com/"
+      - API_KEY=
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.swaranritya-ui-web.tls=true"
+      - "traefik.http.routers.swaranritya-ui-web.rule=Host(`swaranritya.zynomi.com`)"
+      - "traefik.http.routers.swaranritya-ui-web.entrypoints=websecure"
+      - "traefik.http.routers.swaranritya-ui-web.tls.certresolver=myresolver"

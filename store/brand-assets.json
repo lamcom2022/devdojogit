@@ -1,0 +1,100 @@
+{
+    "assets": {
+      "logos": [
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864433/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_21-2_isbkv4.svg",
+          "asset_type": "logo",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Green & Black",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864433/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_21-1_krgdr9.svg",
+          "asset_type": "logo",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Green & White",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640880652/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Swara Nritya_green_esfmqw.svg",
+          "asset_type": "logo",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Green",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864435/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_21-6_gpfxzi.svg",
+          "asset_type": "logo",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Gradient",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864435/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_21_wr1c2d.svg",
+          "asset_type": "logo",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Black & White",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864434/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_21-4_rphfap.svg",
+          "asset_type": "logo",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya White",
+          "asset_file_ext": "SVG"
+        }
+      ],
+      "marks": [
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864431/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_19-2_ex54va.svg",
+          "asset_type": "mark",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Mark Green & Black",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864431/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_19-1_b3lcwi.svg",
+          "asset_type": "mark",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Mark Green & White",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864431/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_19-6_rnxix7.svg",
+          "asset_type": "mark",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Mark Green & Transparent",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864431/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_19-5_dju23j.svg",
+          "asset_type": "mark",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Mark Black & White",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864431/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_19-4_kxsfjx.svg",
+          "asset_type": "mark",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Mark White & Transparent",
+          "asset_file_ext": "SVG"
+        },
+        {
+          "asset_src": "https://res.cloudinary.com/nathansweb/image/upload/v1640864431/www.xyz.com/brand-assets/logos/svg/NO_BORDER/Group_19-3_mgj8yb.svg",
+          "asset_type": "mark",
+          "asset_size": "large",
+          "asset_description": "",
+          "asset_name": "Swara Nritya Mark White & Black",
+          "asset_file_ext": "SVG"
+        }
+      ]
+    }
+  }

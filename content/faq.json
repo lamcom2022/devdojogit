@@ -1,0 +1,32 @@
+[
+    {
+      "question": "What is the meaning of the name ?",
+      "image": "",
+      "answer": "First two letters from each of these words \"Zynergy, Novus and Minimalism\" abbrevation. ZY - (S)Zynergy is coming together to produce something great, NO - Novus is creating something new and MI - Minimalism is Keeping things very simple",
+      "slug": "-name"
+    },
+    {
+      "question": "What is Zyno?",
+      "image": "",
+      "answer": "Zyno represents bot developed and deployed by  using  platform",
+      "slug": "zyno"
+    },
+    {
+      "question": "The theme behind  logo Mark",
+      "image": "",
+      "answer": "It referes to the character \"%\" which represents \"code\" also represents the three acronms of ZY-NO-MI for dot-slash-dot in the percentage.",
+      "slug": "-logo-mark"
+    },
+    {
+      "question": "What is X?",
+      "image": "",
+      "answer": "It referes the name of the  RPA platform designed for simplicity, multi-cloud, enterprise use, and scalability. It blends seamlessly into your existing architecture, works with on-prem legacy systems, cloud native platforms, and technology agnostic.",
+      "slug": "x"
+    },
+    {
+      "question": "What is RPA?",
+      "image": "",
+      "answer": "Robotic Process Automation (RPA) is an emerging technology of process automation based on Software Robots or Artificial Intelligence workers",
+      "slug": "rpa"
+    }
+  ]

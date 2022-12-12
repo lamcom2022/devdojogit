@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://SwaraNritya.com/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.00</priority>
+
+</url>
+
+<url>
+  <loc>https://SwaraNritya.com/docs/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/casestudy/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/technology/platform-architecture</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/technology/components</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/technology/devops-architecture</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/about/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/methodology/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/brand-assets/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/faq/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+
+<url>
+  <loc>https://SwaraNritya.com/casestudy/traefik-traefik-how-wwwcom-website-is-built-and-deployed</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/casestudy/bots-in-application-monitoring</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://SwaraNritya.com/casestudy/bots-in-agritech-indistry</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+<url>
+  <loc>https://com/casestudy/local-dns-setup-in-mac-os</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+
+</url>
+</urlset>
